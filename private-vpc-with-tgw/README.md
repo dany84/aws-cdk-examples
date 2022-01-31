@@ -4,7 +4,7 @@ Created to provision the needed infrastructure for Cantrill's [Advanced Demo Sit
 
 ## Infrastructure
 
-<p align="center"><img src="images/infra.png" alt="Baseline architecture"/>Figure 1: Baseline architecture</p>
+<p align="center"><img src="images/infra.png" alt="Baseline infrastructure"/>Figure 1: Baseline infrastructure</p>
 
 1. A vpc named "A4L-AWS"
 2. Two isolated subnets.
