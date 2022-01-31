@@ -1,5 +1,4 @@
 # aws-cdk-examples
 
-This repository contains a set of example projects for the AWS Cloud Development Kit.
-
+This repository contains a set of example projects for the AWS Cloud Development Kit in typescript.
 
