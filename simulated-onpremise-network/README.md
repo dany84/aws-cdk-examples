@@ -6,3 +6,6 @@ Created to provision the needed on-premise part of the infrastructure for Cantri
 
 <p align="center"><img src="images/infra.png" alt="Baseline infrastructure"/>Figure 1: Baseline infrastructure</p>
 
+## Restrictions
+
+Only works in us-east-1 region
