@@ -156,7 +156,7 @@ export class SimulatedOnpremiseNetworkStack extends Stack {
             allowAllOutbound: true,
         });
         instanceSG.addIngressRule(
-            ec2.Peer.ipv4('192.168.8.0/21'),
+            ec2.Peer.ipv4('10.16.0.0/16'),
             ec2.Port.allTraffic(),
             'Allow All from AWS Environment'
         );
